@@ -19,7 +19,7 @@ A Go-based implementation of the Huffman encoding and decoding algorithm.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/huffman-encoder-decoder.git
+   git clone https://github.com/omarahr/huffman-encoder-decoder.git
    cd huffman-encoder-decoder
    ```
 
